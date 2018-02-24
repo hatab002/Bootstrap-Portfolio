@@ -1,0 +1,66 @@
+.container {
+    margin-top: 5%;
+    margin-bottom: 5%;
+
+}
+#main-content {
+    border: solid;
+    border-width: 1px;
+    margin-top: 30px;
+    padding-bottom: 10px;
+}
+#main-Content {
+    border: solid;
+    border-width: 1px;
+    margin-top: 30px;
+}
+#sidebar, #sidebar1 {
+    height: 150px;
+    width: 30%px;
+    margin-top: 30px;
+    background: white;
+    text-align: center;
+    padding-left: 5%;
+ 
+}
+#sidebar1 {
+    position: relative;
+    left: 40px;
+}
+#sidebar li, #sidebar1 li {
+display: inline-block;
+list-style-type: none;
+}
+.panel-heading {
+    background: white;
+}
+
+.sm {
+    height: 50px;
+    width: 50px;
+    margin-left: 10px;
+    margin-right: 15px;
+}
+
+.image {
+
+    position: relative;
+    left: 50%;
+}
+.pfCaption {
+    text-align: center;
+    position: relative;
+    left: 50%;
+    bottom: 30px;
+    background-color: #4aaaa5;
+    color: white;
+    line-height: 40px;
+}
+
+#name {
+    background-color: #4aaaa5;
+    color: white;
+    position: relative;
+    left: 100px;
+    font-weight: bold;
+}
