@@ -72,7 +72,9 @@ list-style-type: none;
     line-height: 40px;
     max-width: 640px;
 }
-
+#crystal {
+    height: 261.70px;
+}
 #name {
     background-color: #4aaaa5;
     color: white;
